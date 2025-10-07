@@ -1766,29 +1766,29 @@
 
                             <div class="section__title__2">
                                 <div class="section__small__title">
-                                    <span>Education Solution</span>
+                                    <span>Futuremind Software Training</span>
                                 </div>
                                 <div class="section__title__heading__2 section__title__heading__3 heading__fontsize__2">
-                                    <h2>Welcome to the online Learning Center</h2>
+                                    <h2>Shape Your Future in IT with Industry-Ready Training</h2>
                                 </div>
                             </div>
 
 
                             <div class="aboutarea__para aboutarea__para__2">
-                                <p>25+Contrary to popular belief, Lorem Ipsum is not simply random text roots in a piece of classical Latin literature from 45 BC</p>
+                                <p>100+ Career-Oriented Courses From Programming to Professional Skills – Learn with Real Projects & Expert Trainers</p>
                             </div>
                             <div class="aboutarea__list__2">
                                 <ul>
                                     <li>
-                                        <i class="icofont-check"></i> Explore a variety of fresh educational teach
+                                        <i class="icofont-check"></i> Learn Industry-Oriented IT Skills
                                     </li>
 
                                     <li>
-                                        <i class="icofont-check"></i> Explore a variety of fresh educational teach
+                                        <i class="icofont-check"></i> Hands-On Training with Real Projects
                                     </li>
 
                                     <li>
-                                        <i class="icofont-check"></i> Explore a variety of fresh educational teach
+                                        <i class="icofont-check"></i> Career Growth & Job Assistance
                                     </li>
                                 </ul>
                             </div>
