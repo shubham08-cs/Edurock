@@ -1984,8 +1984,8 @@
                                 </div>
                             </div>
                             <div class="service__content">
-                                <h3><a href="course-details.php">Data Science</a></h3>
-                                <p>Transform data into intelligence</p>
+                                <h3><a href="course-details.php">Health & Fitness</a></h3>
+                                <p>health is wealth</p>
                             </div>
                             <div class="service__small__img">
                                 <svg class="icon__hover__img" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -2018,8 +2018,8 @@
                                 </div>
                             </div>
                             <div class="service__content">
-                                <h3><a href="course-details.php">Data Analytics</a></h3>
-                                <p>insights that drive smart decisions</p>
+                                <h3><a href="course-details.php">Health & Fitness</a></h3>
+                                <p>health is wealth</p>
                             </div>
                             <div class="service__small__img">
                                 <svg class="icon__hover__img" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -2153,8 +2153,7 @@
                                     </ul>
                                 </div>
                                 <div class="gridarea__heading">
-                                    <h3><a href="course-details.php">Foundation course to under stand
-                                        about softwere</a></h3>
+                                    <h3><a href="course-details.php">Learn fundamentals of Data Science with Python & Statistics.</a></h3>
                                 </div>
                                 <div class="gridarea__price">
                                     $32.00 <del>/ $67.00</del>
@@ -2481,7 +2480,7 @@
                                     <div class="default__small__button">Course List</div>
                                 </div>
                                 <div class="section__title__heading heading__underline">
-                                    <h2>Register Your <span>Account </span>Get free access to <small>60000</small> online course
+                                    <h2>Kickstart Your <span>Career </span>with <small>Job-Oriented </small>Programs</h2>
                                     </h2>
                                 </div>
                             </div>
@@ -2491,7 +2490,7 @@
                                         <a class="video-btn" href="https://www.youtube.com/watch?v=vHdclsdkp28"> <img loading="lazy"  src="img/icon/video.png" alt=""></a>
                                     </div>
                                     <div class="registerarea__para">
-                                        <p>Learn Something new & Build Your Career From Anywhere In The World</p>
+                                        <p>Futuremind Infotech Solution Building Careers, Not Just Certificates</p>
                                     </div>
 
                                 </div>

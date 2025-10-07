@@ -2223,8 +2223,8 @@
                                 </div>
                             </div>
                             <div class="service__content">
-                                <h3><a href="course-details.php">Health & Fitness</a></h3>
-                                <p>health is wealth</p>
+                                <h3><a href="course-details.php">Data Science</a></h3>
+                                <p>Analyze, interpret, predict</p>
                             </div>
                             <div class="service__small__img">
                                 <svg class="icon__hover__img" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -2256,9 +2256,9 @@
                                     </svg>
                                 </div>
                             </div>
-                            <div class="service__content">
-                                <h3><a href="course-details.php">Health & Fitness</a></h3>
-                                <p>health is wealth</p>
+                             <div class="service__content">
+                                <h3><a href="course-details.php">Data Analysis</a></h3>
+                                <p>Collect, clean, interpret.</p>
                             </div>
                             <div class="service__small__img">
                                 <svg class="icon__hover__img" fill="none" xmlns="http://www.w3.org/2000/svg">
