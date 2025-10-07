@@ -1984,8 +1984,8 @@
                                 </div>
                             </div>
                             <div class="service__content">
-                                <h3><a href="course-details.php">Health & Fitness</a></h3>
-                                <p>health is wealth</p>
+                                <h3><a href="course-details.php">Data science</a></h3>
+                                <p>Transform data into intelligence</p>
                             </div>
                             <div class="service__small__img">
                                 <svg class="icon__hover__img" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -2018,8 +2018,8 @@
                                 </div>
                             </div>
                             <div class="service__content">
-                                <h3><a href="course-details.php">Health & Fitness</a></h3>
-                                <p>health is wealth</p>
+                                <h3><a href="course-details.php">Data Analytics</a></h3>
+                                <p>Insights that drive smart decisions</p>
                             </div>
                             <div class="service__small__img">
                                 <svg class="icon__hover__img" fill="none" xmlns="http://www.w3.org/2000/svg">
