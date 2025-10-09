@@ -1938,7 +1938,7 @@
 
                             <div class="online__course__wrap">
                                 <div class="instructor__heading__2" data-aos="fade-up">
-                                    <h3>Author More Courses</h3>
+                                    <h3>Another Courses</h3>
                                     <a href="course.php">More Courses...</a>
                                 </div>
 
@@ -2449,9 +2449,13 @@
                                 <ul class="course__details__populer__list">
                                     <li>
 
-                                        <div class="course__details__populer__img">
-                                            <img loading="lazy"  src="img/blog-details/blog-details__6.png" alt="populer">
+                                       <div class="course__details__populer__img">
+                                        <img loading="lazy" 
+                                          src="img/grid/c2.jpg" 
+                                                  alt="populer" 
+                                            style="width: 100px; height: 80px; display: block;">
                                         </div>
+
                                         <div class="course__details__populer__content">
                                             <!-- <span>$32,000</span> -->
                                             <h6>
@@ -2466,12 +2470,15 @@
                                     <li>
 
                                         <div class="course__details__populer__img">
-                                            <img loading="lazy"  src="img/blog-details/blog-details__7.png" alt="populer">
+                                            <img loading="lazy" 
+                                          src="img/grid/c1.jpg" 
+                                                  alt="populer" 
+                                            style="width: 100px; height: 80px; display: block;">
                                         </div>
                                         <div class="course__details__populer__content">
                                             <!-- <span>$32,000</span> -->
                                             <h6>
-                                                <a href="#">Data analytics</a>
+                                                <a href="#">Artifical Intelligence</a>
 
                                             </h6>
                                         </div>
@@ -2483,7 +2490,10 @@
                                     <li>
 
                                         <div class="course__details__populer__img">
-                                            <img loading="lazy"  src="img/blog-details/blog-details__8.png" alt="populer">
+                                            <img loading="lazy" 
+                                          src="img/grid/c3.jpg" 
+                                                  alt="populer" 
+                                            style="width: 100px; height: 80px; display: block;">
                                         </div>
                                         <div class="course__details__populer__content">
                                             <!-- <span>$32,000</span> -->
