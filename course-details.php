@@ -1126,7 +1126,7 @@
 
         </div>
         <!-- breadcrumbarea__section__end-->
-
+         <br>
         <div class="blogarea__2 sp_top_5 sp_bottom_100">
             <div class="container">
                 <div class="row">
@@ -1134,7 +1134,7 @@
                     <div class="col-xl-8 col-lg-8">
 
                         <div class="blogarae__img__2 course__details__img__2" data-aos="fade-up">
-                            <img loading="lazy"  src="img/blog/blog_8.png" alt="blog">
+                            <img loading="lazy"  src="img/blog/blog_37.gif" alt="blog">
 
                             <!-- <div class="registerarea__content course__details__video">
                                 <div class="registerarea__video">
@@ -1946,7 +1946,7 @@
                                     <div class="col-xl-6 column__custom__class">
                                         <div class="gridarea__wraper">
                                             <div class="gridarea__img">
-                                                <a href="course-details.php"><img loading="lazy"  src="img/grid/grid_1.png" alt="grid"></a>
+                                                <a href="course-details.php"><img loading="lazy"  src="img/grid/c1.jpg" alt="grid"></a>
                                                 <div class="gridarea__small__button">
                                                     <div class="grid__badge">Data &amp; Tech</div>
                                                 </div>
@@ -1967,8 +1967,7 @@
                                                     </ul>
                                                 </div>
                                                 <div class="gridarea__heading">
-                                                    <h3><a href="course-details.php">Foundation course to under stand
-                                                    about softwere</a></h3>
+                                                    <h3><a href="course-details.php">Foundational AI Skills for the Modern World</a></h3>
                                                 </div>
                                                 <div class="gridarea__price">
                                                     $32.00 <del>/ $67.00</del>
@@ -2001,9 +2000,9 @@
                                     <div class="col-xl-6 column__custom__class">
                                         <div class="gridarea__wraper">
                                             <div class="gridarea__img">
-                                                <img loading="lazy"  src="img/grid/grid_2.png" alt="grid">
+                                                <img loading="lazy"  src="img/grid/c2.jpg" alt="grid">
                                                 <div class="gridarea__small__button">
-                                                    <div class="grid__badge blue__color">Mechanical</div>
+                                                    <div class="grid__badge blue__color">Machine Learning</div>
                                                 </div>
                                                 <div class="gridarea__small__icon">
                                                     <a href="#"><i class="icofont-heart-alt"></i></a>
@@ -2022,8 +2021,8 @@
                                                     </ul>
                                                 </div>
                                                 <div class="gridarea__heading">
-                                                    <h3><a href="#">Nidnies course to under stand
-                                                    about softwere</a></h3>
+                                                    <h3><a href="#">
+                                                  Foundations of Machine Learning</a></h3>
                                                 </div>
                                                 <div class="gridarea__price green__color">
                                                     $32.00<del>/$67.00</del>
