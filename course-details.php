@@ -1094,9 +1094,9 @@
         <!-- theme fixed shadow -->
         <!-- breadcrumbarea__section__start -->
 
-        <div class="breadcrumbarea">
+        <div class="breadcrumbarea" >
 
-            <div class="container">
+            <div class="container" >
                 <div class="row">
                     <div class="col-xl-12">
                         <div class="breadcrumb__content__wraper" data-aos="fade-up">
@@ -1127,7 +1127,7 @@
         </div>
         <!-- breadcrumbarea__section__end-->
 
-        <div class="blogarea__2 sp_top_100 sp_bottom_100">
+        <div class="blogarea__2 sp_top_5 sp_bottom_100">
             <div class="container">
                 <div class="row">
 
@@ -1150,15 +1150,15 @@
                         <div class="blog__details__content__wraper">
                             <div class="course__button__wraper" data-aos="fade-up">
                                 <div class="course__button">
-                                    <a href="#">Featured</a>
-                                    <a class="course__2" href="#">Ux Design</a>
+                                    <!-- <a href="#">Data Science</a> -->
+                                    <!-- <a class="course__2" href="#">Enroll Now</a> -->
                                 </div>
                                 <div class="course__date">
                                     <p>Last Update:<span> Sep 29, 2024</span></p>
                                 </div>
                             </div>
                             <div class="course__details__heading" data-aos="fade-up">
-                                <h3>Making Music with Other People</h3>
+                                <h3>Explore Your Data Science Course</h3>
                             </div>
                             <div class="course__details__price" data-aos="fade-up">
                                 <ul>
@@ -1186,9 +1186,12 @@
                                 </ul>
                             </div>
                             <div class="course__details__paragraph" data-aos="fade-up">
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur vulputate vestibulum rhoncus, dolor eget viverra pretium, dolor tellus aliquet nunc, vitae ultricies erat elit eu lacus. Vestibulum non justo consectetur,
-                                    cursus ante, tincidunt sapien. Nulla quis diam sit amet turpis interd enim. Vivamus faucibus ex sed nibh egestas elementum. Mauris et bibendum dui. Aenean consequat pulvinar luctus. Suspendisse consectetur tristique
-                                </p>
+                                <p>The Data Science course provides a comprehensive introduction to the concepts, 
+                                    techniques, and tools used to extract meaningful insights from data. 
+                                    Students learn how to collect, clean, analyze, and visualize data to 
+                                    support data-driven decision-making. The course combines elements of 
+                                    statistics, programming, and machine learning to develop strong analytical
+                                     and problem-solving skills.</p>
                             </div>
 
                             <h4 class="sidebar__title" data-aos="fade-up">Course Details</h4>
@@ -1874,21 +1877,25 @@
                                     <ul>
                                         <li>
                                             <i class="icofont-check"></i>
-                                            <p>Lorem Ipsum is simply dummying text of the printing andtypesetting industry most of the standard.</p>
+                                            <p>📂 Data Retrieval: Helps locate specific data from large databases or the internet.</p>
+                                        </li>
+                                        
+                                        <li>
+                                            <i class="icofont-check"></i>
+                                            <p>📊 Efficient Analysis: Allows data scientists to quickly access the right information needed for modeling and insights.</p>
                                         </li>
                                         <li>
                                             <i class="icofont-check"></i>
-                                            <p>Lorem Ipsum is simply dummying text of the printing andtypesetting industry most of the standard.</p>
+                                            <p>💡 Knowledge Discovery: Aids in finding patterns, trends, and relationships hidden in data.</p>
                                         </li>
                                         <li>
                                             <i class="icofont-check"></i>
-                                            <p>Lorem Ipsum is simply dummying text of the printing andtypesetting industry most of the standard.</p>
+                                            <p>⚙️ Algorithm Understanding: Teaches how search algorithms (like linear or binary search) work, which are core to data processing and machine learning.</p>
                                         </li>
-                                        <li>
+                                         <li>
                                             <i class="icofont-check"></i>
-                                            <p>Lorem Ipsum is simply dummying text of the printing andtypesetting industry most of the standard.</p>
+                                            <p>📚 Research Skills: Enables learners to explore new tools, datasets, and research papers for continuous learning.</p>
                                         </li>
-
                                     </ul>
                                 </div>
                             </div>
@@ -2336,8 +2343,8 @@
                                 </div>
 
                                 <div class="course__summery__button">
-                                    <a class="default__button" href="#">Add To Cart</a>
-                                    <a class="default__button default__button--2" href="#">Buy Now</a>
+                                    <!-- <a class="default__button" href="#">Add To Cart</a> -->
+                                    <a class="default__button default__button--2" href="#">Enroll Now</a>
                                     <span>
                                         <i class="icofont-ui-rotation"></i>
                                         45-Days Money-Back Guarantee
@@ -2447,9 +2454,9 @@
                                             <img loading="lazy"  src="img/blog-details/blog-details__6.png" alt="populer">
                                         </div>
                                         <div class="course__details__populer__content">
-                                            <span>$32,000</span>
+                                            <!-- <span>$32,000</span> -->
                                             <h6>
-                                                <a href="#">Making Music with Other People</a>
+                                                <a href="#">Machine Learning</a>
 
                                             </h6>
                                         </div>
@@ -2463,9 +2470,9 @@
                                             <img loading="lazy"  src="img/blog-details/blog-details__7.png" alt="populer">
                                         </div>
                                         <div class="course__details__populer__content">
-                                            <span>$32,000</span>
+                                            <!-- <span>$32,000</span> -->
                                             <h6>
-                                                <a href="#">Making Music with Other People</a>
+                                                <a href="#">Data analytics</a>
 
                                             </h6>
                                         </div>
@@ -2480,9 +2487,9 @@
                                             <img loading="lazy"  src="img/blog-details/blog-details__8.png" alt="populer">
                                         </div>
                                         <div class="course__details__populer__content">
-                                            <span>$32,000</span>
+                                            <!-- <span>$32,000</span> -->
                                             <h6>
-                                                <a href="#">Making Music with Other People</a>
+                                                <a href="#">UI/UX Design</a>
 
                                             </h6>
                                         </div>
