@@ -2142,7 +2142,11 @@
                                     </ul>
                                 </div>
                                 <div class="gridarea__heading">
-                                    <h3><a href="course-details.php">Learn fundamentals of Data Science with Python & Statistics.</a></h3>
+                                    <h3>
+  <a href="course-details.php?course=Data Science">
+    Learn fundamentals of Data Science with Python & Statistics.
+  </a>
+</h3>
                                 </div>
                                 <div class="gridarea__price">
                                     $32.00 <del>/ $67.00</del>

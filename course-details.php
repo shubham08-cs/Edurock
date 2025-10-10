@@ -1,4 +1,7 @@
 <?php include 'services/session.php'; ?>
+<?php
+$courseName = isset($_GET['course']) ? $_GET['course'] : 'Course Name';
+?>
 <!doctype html>
 <html class="no-js" lang="zxx">
 
@@ -2343,7 +2346,8 @@
 
                                 <div class="course__summery__button">
                                     <!-- <a class="default__button" href="#">Add To Cart</a> -->
-                                    <a class="default__button default__button--2" href="#">Enroll Now</a>
+                                   <a class="default__button default__button--2" href="#" 
+   onclick="openEnrollForm('<?php echo $courseName; ?>')">Enroll Now</a>
                                     <span>
                                         <i class="icofont-ui-rotation"></i>
                                         45-Days Money-Back Guarantee
@@ -2770,6 +2774,77 @@
         } 
       </script>
 
+
+<!-- ============================= -->
+<!-- Enroll Now Button -->
+<!-- ============================= -->
+<?php
+$courseName = isset($_GET['course']) ? $_GET['course'] : 'Data Science'; // default value
+?>
+<a class="default__button default__button--2" href="#" 
+   onclick="openEnrollForm('<?php echo $courseName; ?>')">Enroll Now</a>
+
+
+<!-- ============================= -->
+<!-- Enroll Form Modal -->
+<!-- ============================= -->
+<div id="enrollFormModal" 
+     style="display:none; position: fixed; top:0; left:0; width:100%; height:100%;
+            background: rgba(0,0,0,0.5); justify-content:center; align-items:center; z-index:9999;">
+  <div style="background:#fff; padding:25px; border-radius:10px; width:90%; max-width:450px; position:relative;">
+    
+    <!-- Close Button -->
+    <span onclick="closeEnrollForm()" 
+          style="position:absolute; top:10px; right:15px; cursor:pointer; font-weight:bold; font-size:20px;">&times;</span>
+    
+    <h3 style="margin-bottom:15px; text-align:center;">Enroll Now</h3>
+    
+    <form method="post" action="submit_enroll.php">
+      <!-- Full Name -->
+      <label>Full Name:</label>
+      <input type="text" name="full_name" class="form-control" required 
+             style="width:100%; margin-bottom:10px; padding:8px; border:1px solid #ccc; border-radius:5px;">
+      
+      <!-- Email -->
+      <label>Email:</label>
+      <input type="email" name="email" class="form-control" required 
+             style="width:100%; margin-bottom:10px; padding:8px; border:1px solid #ccc; border-radius:5px;">
+      
+      <!-- Contact -->
+      <label>Contact Number:</label>
+      <input type="text" name="contact" class="form-control" required 
+             style="width:100%; margin-bottom:10px; padding:8px; border:1px solid #ccc; border-radius:5px;">
+      
+      <!-- City -->
+      <label>City:</label>
+      <input type="text" name="city" class="form-control" required 
+             style="width:100%; margin-bottom:10px; padding:8px; border:1px solid #ccc; border-radius:5px;">
+      
+      <!-- Course -->
+      <label>Course Name:</label>
+      <input type="text" id="courseName" name="course_name" readonly 
+             style="width:100%; margin-bottom:10px; padding:8px; border:1px solid #ccc; border-radius:5px; background:#f7f7f7;">
+      
+      <!-- Submit Button -->
+      <button type="submit" class="default__button default__button--2" 
+              style="width:100%; margin-top:10px;">Submit</button>
+    </form>
+  </div>
+</div>
+
+<!-- ============================= -->
+<!-- JavaScript -->
+<!-- ============================= -->
+<script>
+function openEnrollForm(courseName) {
+  document.getElementById('enrollFormModal').style.display = 'flex';
+  document.getElementById('courseName').value = courseName || '';
+}
+
+function closeEnrollForm() {
+  document.getElementById('enrollFormModal').style.display = 'none';
+}
+</script>
 
 </body>
 
